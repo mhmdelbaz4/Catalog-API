@@ -3,7 +3,8 @@ using System;
 
 namespace  Catalog.Repositories
 {
-    public class InMemItemRepository
+    
+    public class InMemItemRepository : IItemRepository
     {
         private readonly List<Item> _items;
 

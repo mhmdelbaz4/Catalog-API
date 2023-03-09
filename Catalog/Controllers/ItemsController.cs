@@ -9,11 +9,11 @@ namespace Catalog.Controllers
 
     public class ItemsController : ControllerBase
     {
-        private readonly InMemItemRepository _repo;
+        private readonly IItemRepository _repo;
 
-        public ItemsController()
+        public ItemsController(IItemRepository repo)
         {
-            _repo = new InMemItemRepository();
+            _repo = repo;
         }
 
         [HttpGet]

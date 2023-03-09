@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Elbaz\\projects\\Back-End\\Catalog\\Catalog.csproj": {}
+    "F:\\Elbaz\\projects\\Back-End\\Catalog-API\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "F:\\Elbaz\\projects\\Back-End\\Catalog\\Catalog.csproj": {
+    "F:\\Elbaz\\projects\\Back-End\\Catalog-API\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Elbaz\\projects\\Back-End\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "F:\\Elbaz\\projects\\Back-End\\Catalog-API\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "F:\\Elbaz\\projects\\Back-End\\Catalog\\Catalog.csproj",
+        "projectPath": "F:\\Elbaz\\projects\\Back-End\\Catalog-API\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\mhmde\\.nuget\\packages\\",
-        "outputPath": "F:\\Elbaz\\projects\\Back-End\\Catalog\\obj\\",
+        "outputPath": "F:\\Elbaz\\projects\\Back-End\\Catalog-API\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
